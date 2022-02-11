@@ -11,9 +11,7 @@ I extracted ATS and radio navigation facilities in GeoJSON format from the Aeron
 - 位置通報点、ウェイポイント (WAY POINTS)
 - 無線航法施設 (RADIO NAVIGATION AIDS)
 
-
-![ATS_ROUTES](https://user-images.githubusercontent.com/36815385/153598346-6092cda8-32a4-4f08-9317-d1f03cd5958a.png)
-
+![ATS_route](https://user-images.githubusercontent.com/36815385/153599035-9bbd4465-5a16-48b5-a820-8c58b0720859.png)
 
 技術的詳細は以下を参考にしてください。
 
