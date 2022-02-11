@@ -11,6 +11,10 @@ I extracted ATS and radio navigation facilities in GeoJSON format from the Aeron
 - 位置通報点、ウェイポイント (WAY POINTS)
 - 無線航法施設 (RADIO NAVIGATION AIDS)
 
+
+![ATS_ROUTES](https://user-images.githubusercontent.com/36815385/153598346-6092cda8-32a4-4f08-9317-d1f03cd5958a.png)
+
+
 技術的詳細は以下を参考にしてください。
 
 [pythonでPDFファイルの表を抽出する](https://tty6335.hatenablog.com/entry/2022/01/23/173058)  
