@@ -1,0 +1,119 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "Y576"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.72333333333333,
+            25.872222222222224
+          ],
+          [
+            125.8775,
+            25.435
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "Y576"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            125.8775,
+            25.435
+          ],
+          [
+            125.71805555555555,
+            25.351666666666667
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "Y576"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            125.71805555555555,
+            25.351666666666667
+          ],
+          [
+            125.25111111111111,
+            25.101944444444445
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "Y576"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            125.25111111111111,
+            25.101944444444445
+          ],
+          [
+            125.09805555555555,
+            24.998055555555556
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "Y576"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            125.09805555555555,
+            24.998055555555556
+          ],
+          [
+            124.87083333333332,
+            24.829722222222223
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "Y576"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            124.87083333333332,
+            24.829722222222223
+          ],
+          [
+            124.23805555555556,
+            24.39611111111111
+          ]
+        ]
+      }
+    }
+  ]
+}

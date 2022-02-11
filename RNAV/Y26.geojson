@@ -1,0 +1,119 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "Y26"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            130.63472222222222,
+            30.00888888888889
+          ],
+          [
+            130.07527777777779,
+            29.57472222222222
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "Y26"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            130.07527777777779,
+            29.57472222222222
+          ],
+          [
+            129.37694444444446,
+            28.98888888888889
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "Y26"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            129.37694444444446,
+            28.98888888888889
+          ],
+          [
+            127.615,
+            27.488055555555558
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "Y26"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.615,
+            27.488055555555558
+          ],
+          [
+            126.2075,
+            26.14388888888889
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "Y26"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.2075,
+            26.14388888888889
+          ],
+          [
+            124.87083333333332,
+            24.829722222222223
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "Y26"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            124.87083333333332,
+            24.829722222222223
+          ],
+          [
+            124.0,
+            23.95
+          ]
+        ]
+      }
+    }
+  ]
+}

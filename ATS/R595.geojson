@@ -1,0 +1,119 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "R595"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            124.0,
+            24.933333333333334
+          ],
+          [
+            124.87096944444444,
+            24.82958888888889
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "R595"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            124.87096944444444,
+            24.82958888888889
+          ],
+          [
+            125.29340833333333,
+            24.777391666666666
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "R595"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            125.29340833333333,
+            24.777391666666666
+          ],
+          [
+            126.69817222222223,
+            24.120897222222222
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "R595"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.69817222222223,
+            24.120897222222222
+          ],
+          [
+            129.0813222222222,
+            23.004372222222223
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "R595"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            129.0813222222222,
+            23.004372222222223
+          ],
+          [
+            130.99440555555555,
+            22.37899722222222
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "R595"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            130.99440555555555,
+            22.37899722222222
+          ],
+          [
+            134.94666666666666,
+            21.0
+          ]
+        ]
+      }
+    }
+  ]
+}

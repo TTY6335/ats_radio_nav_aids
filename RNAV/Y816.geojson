@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "Y816"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            140.4477777777778,
+            34.69694444444444
+          ],
+          [
+            143.32722222222222,
+            35.25194444444445
+          ]
+        ]
+      }
+    }
+  ]
+}

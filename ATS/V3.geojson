@@ -1,0 +1,81 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "V3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            141.80564722222223,
+            45.407358333333335
+          ],
+          [
+            142.3281861111111,
+            45.07383611111111
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "V3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            142.3281861111111,
+            45.07383611111111
+          ],
+          [
+            143.94318611111112,
+            44.030427777777774
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "V3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            143.94318611111112,
+            44.030427777777774
+          ],
+          [
+            144.16618333333335,
+            43.884908333333335
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "V3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            144.16618333333335,
+            43.884908333333335
+          ],
+          [
+            144.20411388888888,
+            43.03380277777777
+          ]
+        ]
+      }
+    }
+  ]
+}

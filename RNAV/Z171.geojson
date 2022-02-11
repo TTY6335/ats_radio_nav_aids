@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "Z171"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            138.03805555555556,
+            38.913888888888884
+          ],
+          [
+            136.9011111111111,
+            38.61666666666667
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "Z171"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.9011111111111,
+            38.61666666666667
+          ],
+          [
+            133.73388888888888,
+            37.71805555555556
+          ]
+        ]
+      }
+    }
+  ]
+}

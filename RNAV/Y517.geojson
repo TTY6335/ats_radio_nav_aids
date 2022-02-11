@@ -1,0 +1,214 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "Y517"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            140.59694444444446,
+            37.109722222222224
+          ],
+          [
+            140.2433333333333,
+            37.06777777777778
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "Y517"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            140.2433333333333,
+            37.06777777777778
+          ],
+          [
+            140.0038888888889,
+            37.03861111111111
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "Y517"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            140.0038888888889,
+            37.03861111111111
+          ],
+          [
+            139.79777777777778,
+            37.01305555555555
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "Y517"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            139.79777777777778,
+            37.01305555555555
+          ],
+          [
+            139.48472222222222,
+            36.97361111111111
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "Y517"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            139.48472222222222,
+            36.97361111111111
+          ],
+          [
+            139.07527777777779,
+            36.92055555555555
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "Y517"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            139.07527777777779,
+            36.92055555555555
+          ],
+          [
+            138.47916666666666,
+            36.84305555555556
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "Y517"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            138.47916666666666,
+            36.84305555555556
+          ],
+          [
+            138.09305555555557,
+            36.790277777777774
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "Y517"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            138.09305555555557,
+            36.790277777777774
+          ],
+          [
+            136.94972222222222,
+            36.63055555555555
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "Y517"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.94972222222222,
+            36.63055555555555
+          ],
+          [
+            134.50333333333333,
+            36.24277777777778
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "Y517"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            134.50333333333333,
+            36.24277777777778
+          ],
+          [
+            130.46833333333333,
+            29.06722222222222
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "Y517"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            130.46833333333333,
+            29.06722222222222
+          ],
+          [
+            129.8836111111111,
+            28.732499999999998
+          ]
+        ]
+      }
+    }
+  ]
+}

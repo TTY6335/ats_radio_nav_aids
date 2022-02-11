@@ -1,0 +1,138 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "B586"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            139.41401666666667,
+            34.71225277777778
+          ],
+          [
+            139.49663888888887,
+            34.197538888888886
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "B586"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            139.49663888888887,
+            34.197538888888886
+          ],
+          [
+            139.72053055555557,
+            32.77022222222222
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "B586"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            139.72053055555557,
+            32.77022222222222
+          ],
+          [
+            139.98706944444444,
+            31.00005
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "B586"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            139.98706944444444,
+            31.00005
+          ],
+          [
+            140.3461777777778,
+            30.000858333333333
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "B586"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            140.3461777777778,
+            30.000858333333333
+          ],
+          [
+            141.33028611111112,
+            28.316266666666667
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "B586"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            141.33028611111112,
+            28.316266666666667
+          ],
+          [
+            142.03693055555556,
+            25.004394444444443
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "B586"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            142.03693055555556,
+            25.004394444444443
+          ],
+          [
+            142.98999999999998,
+            21.0
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "A339"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            138.95748333333333,
+            33.170719444444444
+          ],
+          [
+            138.64530555555555,
+            32.613550000000004
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "A339"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            138.64530555555555,
+            32.613550000000004
+          ],
+          [
+            137.74672222222222,
+            30.963036111111112
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "A339"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.74672222222222,
+            30.963036111111112
+          ],
+          [
+            137.23883611111108,
+            30.00379722222222
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "A339"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.23883611111108,
+            30.00379722222222
+          ],
+          [
+            135.85068611111112,
+            27.270716666666665
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "A339"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            135.85068611111112,
+            27.270716666666665
+          ],
+          [
+            134.98912777777775,
+            25.497547222222224
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "A339"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            134.98912777777775,
+            25.497547222222224
+          ],
+          [
+            134.94666666666666,
+            21.0
+          ]
+        ]
+      }
+    }
+  ]
+}

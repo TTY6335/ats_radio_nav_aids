@@ -1,0 +1,119 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "V53"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            134.02259166666667,
+            34.212497222222225
+          ],
+          [
+            133.92151666666666,
+            34.014975
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "V53"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            133.92151666666666,
+            34.014975
+          ],
+          [
+            133.820925,
+            33.818075
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "V53"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            133.820925,
+            33.818075
+          ],
+          [
+            133.6801583333333,
+            33.541783333333335
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "V53"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            133.6801583333333,
+            33.541783333333335
+          ],
+          [
+            133.50379166666667,
+            33.33950277777778
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "V53"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            133.50379166666667,
+            33.33950277777778
+          ],
+          [
+            133.29206944444445,
+            33.09651388888889
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "V53"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            133.29206944444445,
+            33.09651388888889
+          ],
+          [
+            132.9966472222222,
+            32.755969444444446
+          ]
+        ]
+      }
+    }
+  ]
+}

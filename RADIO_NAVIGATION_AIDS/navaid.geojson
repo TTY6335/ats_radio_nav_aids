@@ -1,0 +1,2597 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "AMAMI TACAN",
+        "ID": "ALT",
+        "ELEV": {
+          "m": 303.5,
+          "ft": 996.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.5834,
+          28.443472222222223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "AMI DME",
+        "ID": "TLD",
+        "ELEV": {
+          "m": 41.4,
+          "ft": 136.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.20575555555556,
+          36.02099444444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "AOMORI VOR",
+        "ID": "MRE",
+        "ELEV": {
+          "m": 230.2,
+          "ft": 756.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.70533333333333,
+          40.738791666666664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "AOMORI DME",
+        "ID": "MRE",
+        "ELEV": {
+          "m": 230.2,
+          "ft": 756.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.7049361111111,
+          40.73894444444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "ASAHIKAWA VOR/DME",
+        "ID": "AWE",
+        "ELEV": {
+          "m": 234.4,
+          "ft": 769.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.45684722222222,
+          43.66726388888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "ASHIYA TACAN",
+        "ID": "AHT",
+        "ELEV": {
+          "m": NaN,
+          "ft": NaN
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.64986666666667,
+          33.88742777777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "ATSUGI TACAN",
+        "ID": "NJA",
+        "ELEV": {
+          "m": 65.2,
+          "ft": 214.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.45388888888888,
+          35.44555555555555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "AWAJI DME",
+        "ID": "AJD",
+        "ELEV": {
+          "m": 269.4,
+          "ft": 883.9
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.71294166666667,
+          34.27030277777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "CHICHIJIMA NDB",
+        "ID": "CI",
+        "ELEV": {
+          "m": NaN,
+          "ft": NaN
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.21972222222223,
+          27.089166666666664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "CHINEN TACAN",
+        "ID": "TIT",
+        "ELEV": {
+          "m": 165.4,
+          "ft": 543.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.80108888888888,
+          26.160666666666664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "CHITOSE VOR/DME",
+        "ID": "CHE",
+        "ELEV": {
+          "m": 26.4,
+          "ft": 87.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.68616666666668,
+          42.69990277777777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "CHITOSE TACAN",
+        "ID": "ZYT",
+        "ELEV": {
+          "m": 26.4,
+          "ft": 87.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.67361111111111,
+          42.76444444444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "CHOSHI TACAN",
+        "ID": "CVT",
+        "ELEV": {
+          "m": 71.9,
+          "ft": 236.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.7999111111111,
+          35.726683333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "CHUBU VOR/DME",
+        "ID": "CBE",
+        "ELEV": {
+          "m": 12.0,
+          "ft": 40.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.80316944444445,
+          34.85800555555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "DAIGO TACAN",
+        "ID": "GOT",
+        "ELEV": {
+          "m": 451.0,
+          "ft": 1480.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.34956111111111,
+          36.74485277777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "ERABU VOR",
+        "ID": "ONC",
+        "ELEV": {
+          "m": 66.5,
+          "ft": 218.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.6989638888889,
+          27.432883333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "ERABU TACAN",
+        "ID": "ONC",
+        "ELEV": {
+          "m": 66.5,
+          "ft": 218.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.69891388888888,
+          27.433375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "FUKUE VOR/DME",
+        "ID": "FUE",
+        "ELEV": {
+          "m": 90.3,
+          "ft": 296.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.8267361111111,
+          32.66860555555555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "FUKUOKA VOR",
+        "ID": "DGC",
+        "ELEV": {
+          "m": 19.7,
+          "ft": 65.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.38962777777778,
+          33.67620833333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "FUKUOKA TACAN",
+        "ID": "DGC",
+        "ELEV": {
+          "m": 19.7,
+          "ft": 65.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.3891611111111,
+          33.675977777777774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "FUKUSHIMA VOR/DME",
+        "ID": "FKE",
+        "ELEV": {
+          "m": 400.3,
+          "ft": 1313.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.4370861111111,
+          37.22430555555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "FUTENMA TACAN",
+        "ID": "NFO",
+        "ELEV": {
+          "m": NaN,
+          "ft": NaN
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.743,
+          26.268833333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "GIFU TACAN",
+        "ID": "GFT",
+        "ELEV": {
+          "m": NaN,
+          "ft": NaN
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.85833333333332,
+          35.391666666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "GOBOH DME",
+        "ID": "GBD",
+        "ELEV": {
+          "m": 309.7,
+          "ft": 1016.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.10614999999999,
+          33.91018333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "HACHIJOJIMA VOR/DME",
+        "ID": "HCE",
+        "ELEV": {
+          "m": 103.4,
+          "ft": 339.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.78848333333332,
+          33.11435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "HACHINOHE NDB",
+        "ID": "JC",
+        "ELEV": {
+          "m": 45.6,
+          "ft": 149.6
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.47833333333332,
+          40.55027777777777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "HACHINOHE TACAN",
+        "ID": "HVT",
+        "ELEV": {
+          "m": 45.6,
+          "ft": 149.6
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.47,
+          40.55583333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "HAKODATE VOR/DME",
+        "ID": "HWE",
+        "ELEV": {
+          "m": 91.4,
+          "ft": 300.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.83221666666665,
+          41.774030555555555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "HAMAMATSU TACAN",
+        "ID": "LHT",
+        "ELEV": {
+          "m": NaN,
+          "ft": NaN
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.70999999999998,
+          34.74722222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "HANAMAKI VOR/DME",
+        "ID": "HPE",
+        "ELEV": {
+          "m": 103.4,
+          "ft": 339.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.1335,
+          39.43335833333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "HOFU TACAN",
+        "ID": "FMT",
+        "ELEV": {
+          "m": 17.6,
+          "ft": 57.7
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.54574166666666,
+          34.038425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "HONGO VOR/DME",
+        "ID": "HGE",
+        "ELEV": {
+          "m": 341.0,
+          "ft": 1119.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.92396944444442,
+          34.433775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "HYAKURI VOR",
+        "ID": "HUC",
+        "ELEV": {
+          "m": NaN,
+          "ft": 162.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.41372777777778,
+          36.18700555555555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "HYAKURI TACAN",
+        "ID": "HUC",
+        "ELEV": {
+          "m": NaN,
+          "ft": 162.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.41320277777777,
+          36.18744722222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "IKI VOR/DME",
+        "ID": "IKE",
+        "ELEV": {
+          "m": 66.7,
+          "ft": 219.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.7768527777778,
+          33.74751111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "ISHIGAKIJIMA VOR/DME",
+        "ID": "IGE",
+        "ELEV": {
+          "m": 63.5,
+          "ft": 208.3
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.23795277777778,
+          24.39601111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "ITAMI VOR/DME",
+        "ID": "ITE",
+        "ELEV": {
+          "m": 53.7,
+          "ft": 176.2
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.40366111111112,
+          34.80548333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "IWAKI VOR/DME",
+        "ID": "IXE",
+        "ELEV": {
+          "m": 162.9,
+          "ft": 534.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.97568611111112,
+          37.14886388888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "IWAKUNI TACAN",
+        "ID": "NEU",
+        "ELEV": {
+          "m": NaN,
+          "ft": 38.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.24550277777777,
+          34.158408333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "IWOTO NDB",
+        "ID": "OX",
+        "ELEV": {
+          "m": 108.5,
+          "ft": 356.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.3075,
+          24.772499999999997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "IWOTO TACAN",
+        "ID": "IJT",
+        "ELEV": {
+          "m": 108.5,
+          "ft": 356.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.31583333333336,
+          24.784722222222225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "IZUMO VOR/DME",
+        "ID": "XZE",
+        "ELEV": {
+          "m": 13.1,
+          "ft": 43.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.8923722222222,
+          35.41723888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "KADENA VOR",
+        "ID": "KAD",
+        "ELEV": {
+          "m": NaN,
+          "ft": 158.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.7685361111111,
+          26.356711111111114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "KADENA TACAN",
+        "ID": "KAD",
+        "ELEV": {
+          "m": NaN,
+          "ft": 158.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.7685361111111,
+          26.356711111111114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "KAGAWA VOR",
+        "ID": "KTE",
+        "ELEV": {
+          "m": 212.2,
+          "ft": 696.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.02259166666667,
+          34.212497222222225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "KAGAWA DME",
+        "ID": "KTE",
+        "ELEV": {
+          "m": 212.2,
+          "ft": 696.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.02229722222225,
+          34.21231388888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "KAGOSHIMA VOR",
+        "ID": "HKC",
+        "ELEV": {
+          "m": 582.0,
+          "ft": 1909.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.58294166666667,
+          31.697222222222223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "KAGOSHIMA TACAN",
+        "ID": "HKC",
+        "ELEV": {
+          "m": 582.0,
+          "ft": 1909.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.58340555555557,
+          31.697166666666668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "KANOYA NDB",
+        "ID": "JA",
+        "ELEV": {
+          "m": 76.8,
+          "ft": 252.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.8488888888889,
+          31.355833333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "KANOYA TACAN",
+        "ID": "JAT",
+        "ELEV": {
+          "m": 76.8,
+          "ft": 252.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.83027777777778,
+          31.36277777777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "KANSAI VOR/DME",
+        "ID": "KIE",
+        "ELEV": {
+          "m": 11.55,
+          "ft": 37.9
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.20773055555554,
+          34.42573888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "KASARI VOR/DME",
+        "ID": "AME",
+        "ELEV": {
+          "m": 13.1,
+          "ft": 43.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.7114083333333,
+          28.434716666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "KIBI VOR/DME",
+        "ID": "OYE",
+        "ELEV": {
+          "m": 268.2,
+          "ft": 880.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.83505555555556,
+          34.75038333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "KOCHI VOR/DME",
+        "ID": "KRE",
+        "ELEV": {
+          "m": 16.3,
+          "ft": 54.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.6801583333333,
+          33.541783333333335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "KOMATSU VOR",
+        "ID": "KMC",
+        "ELEV": {
+          "m": NaN,
+          "ft": NaN
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.40425277777777,
+          36.39646944444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "KOMATSU TACAN",
+        "ID": "KMC",
+        "ELEV": {
+          "m": NaN,
+          "ft": NaN
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.40513611111112,
+          36.39648888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "KOMATSUSHIMA TACAN",
+        "ID": "KJT",
+        "ELEV": {
+          "m": 18.3,
+          "ft": 60.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.62555555555556,
+          34.00416666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "KOWA TACAN",
+        "ID": "XMT",
+        "ELEV": {
+          "m": 99.4,
+          "ft": 327.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.957425,
+          34.704594444444446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "KUGA TACAN",
+        "ID": "IWT",
+        "ELEV": {
+          "m": 653.8,
+          "ft": 2145.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.1473083333333,
+          34.0799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "KUMAMOTO VOR/DME",
+        "ID": "KUE",
+        "ELEV": {
+          "m": 198.3,
+          "ft": 651.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.8415138888889,
+          32.83480277777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "KUMEJIMA VOR",
+        "ID": "KXC",
+        "ELEV": {
+          "m": 16.3,
+          "ft": 54.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.7220638888889,
+          26.371869444444446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "KUMEJIMA TACAN",
+        "ID": "KXC",
+        "ELEV": {
+          "m": 16.3,
+          "ft": 54.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.72163611111111,
+          26.371669444444446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "KUSHIMOTO VOR",
+        "ID": "KEC",
+        "ELEV": {
+          "m": 45.7,
+          "ft": 150.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.79449444444444,
+          33.447741666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "KUSHIMOTO TACAN",
+        "ID": "KEC",
+        "ELEV": {
+          "m": 45.7,
+          "ft": 150.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.794,
+          33.44801388888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "KUSHIRO VOR/DME",
+        "ID": "KSE",
+        "ELEV": {
+          "m": 101.9,
+          "ft": 334.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.20411388888888,
+          43.03380277777777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "MAIZURU TACAN",
+        "ID": "MZT",
+        "ELEV": {
+          "m": 559.0,
+          "ft": 1834.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.42555555555555,
+          35.54805555555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "MATSUMOTO VOR/DME",
+        "ID": "MBE",
+        "ELEV": {
+          "m": 688.8,
+          "ft": 2260.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.91981666666666,
+          36.155975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "MATSUYAMA VOR/DME",
+        "ID": "MYE",
+        "ELEV": {
+          "m": 13.9,
+          "ft": 46.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.69222222222223,
+          33.83010277777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "MEMANBETSU VOR/DME",
+        "ID": "TBE",
+        "ELEV": {
+          "m": 40.2,
+          "ft": 132.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.16618333333335,
+          43.884908333333335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "MIHO TACAN",
+        "ID": "JET",
+        "ELEV": {
+          "m": 516.8,
+          "ft": 1696.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.0940888888889,
+          35.53104722222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "MINAMIDAITO VOR/DME",
+        "ID": "MDE",
+        "ELEV": {
+          "m": 59.0,
+          "ft": 194.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.26378888888888,
+          25.854483333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "MINAMITORISHIMA NDB",
+        "ID": "ML",
+        "ELEV": {
+          "m": 12.1,
+          "ft": 40.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.98305555555555,
+          24.290833333333335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "MINAMITORISHIMA TACAN",
+        "ID": "MLT",
+        "ELEV": {
+          "m": 12.1,
+          "ft": 40.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.9775,
+          24.289444444444445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "MISAWA VOR",
+        "ID": "MIS",
+        "ELEV": {
+          "m": NaN,
+          "ft": NaN
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.38110833333334,
+          40.70382222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "MISAWA TACAN",
+        "ID": "MIS",
+        "ELEV": {
+          "m": NaN,
+          "ft": NaN
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.38110833333334,
+          40.70382222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "MISHIMA TACAN",
+        "ID": "MIT",
+        "ELEV": {
+          "m": 198.88,
+          "ft": 652.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.13805555555555,
+          34.77166666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "MIYAKO VOR/DME",
+        "ID": "MQE",
+        "ELEV": {
+          "m": 192.4,
+          "ft": 632.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.95106666666666,
+          39.86563888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "MIYAKOJIMA VOR",
+        "ID": "MJC",
+        "ELEV": {
+          "m": 46.2,
+          "ft": 152.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.29340833333333,
+          24.777391666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "MIYAKOJIMA TACAN",
+        "ID": "MJC",
+        "ELEV": {
+          "m": 46.2,
+          "ft": 152.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.29314722222222,
+          24.77701111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "MIYAZAKI VOR/DME",
+        "ID": "MZE",
+        "ELEV": {
+          "m": 16.3,
+          "ft": 54.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.43746666666667,
+          31.87872777777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "MIYAZU VOR/DME",
+        "ID": "YME",
+        "ELEV": {
+          "m": 739.9,
+          "ft": 2428.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.1370222222222,
+          35.480691666666665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "MONBETSU VOR/DME",
+        "ID": "MVE",
+        "ELEV": {
+          "m": 48.4,
+          "ft": 159.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.39509166666667,
+          44.30526666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "MUKAWA VOR/DME",
+        "ID": "MKE",
+        "ELEV": {
+          "m": 28.8,
+          "ft": 95.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.95563055555556,
+          42.55500555555555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "MUSASHI VOR/DME",
+        "ID": "TFE",
+        "ELEV": {
+          "m": 30.4,
+          "ft": 100.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.72875555555555,
+          33.48971388888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "NAGASAKI VOR/DME",
+        "ID": "OLE",
+        "ELEV": {
+          "m": 46.8,
+          "ft": 154.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.91798055555554,
+          32.90524722222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "NAGOYA VOR",
+        "ID": "KCC",
+        "ELEV": {
+          "m": 25.2,
+          "ft": 83.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.914925,
+          35.26526666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "NAGOYA TACAN",
+        "ID": "KCC",
+        "ELEV": {
+          "m": 25.2,
+          "ft": 83.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.91450833333334,
+          35.26548611111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "NAHA VOR",
+        "ID": "NHC",
+        "ELEV": {
+          "m": 17.3,
+          "ft": 56.8
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.64286666666668,
+          26.208530555555555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "NAHA TACAN",
+        "ID": "NHC",
+        "ELEV": {
+          "m": 17.3,
+          "ft": 56.8
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.64262222222223,
+          26.20819722222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "NAKASHIBETSU VOR/DME",
+        "ID": "NSE",
+        "ELEV": {
+          "m": 80.2,
+          "ft": 264.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.95050277777776,
+          43.57736111111112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "NAKATANE VOR/DME",
+        "ID": "TGE",
+        "ELEV": {
+          "m": 247.0,
+          "ft": 810.4
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.9915333333333,
+          30.60215555555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "NANKI VOR/DME",
+        "ID": "NKE",
+        "ELEV": {
+          "m": 103.0,
+          "ft": 338.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.3594138888889,
+          33.66126388888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "NARITA VOR/DME",
+        "ID": "NRE",
+        "ELEV": {
+          "m": 46.9,
+          "ft": 154.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.3625361111111,
+          35.78234444444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "NIIGATA VOR",
+        "ID": "GTC",
+        "ELEV": {
+          "m": 11.89,
+          "ft": 39.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.1148861111111,
+          37.95829444444445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "NIIGATA TACAN",
+        "ID": "GTC",
+        "ELEV": {
+          "m": 11.89,
+          "ft": 39.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.11556666666667,
+          37.95825277777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "NIIJIMA TACAN",
+        "ID": "NJT",
+        "ELEV": {
+          "m": 302.8,
+          "ft": 994.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.2717861111111,
+          34.347775000000006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "NIKKO NDB",
+        "ID": "JD",
+        "ELEV": {
+          "m": NaN,
+          "ft": NaN
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.86310833333332,
+          36.487322222222225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "NOTO VOR/DME",
+        "ID": "NTE",
+        "ELEV": {
+          "m": 241.5,
+          "ft": 793.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.9629111111111,
+          37.28996111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "NYUTABARU TACAN",
+        "ID": "NHT",
+        "ELEV": {
+          "m": NaN,
+          "ft": NaN
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.4536111111111,
+          32.08027777777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "OBIHIRO VOR/DME",
+        "ID": "OBE",
+        "ELEV": {
+          "m": 161.9,
+          "ft": 531.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.22045277777778,
+          42.73396388888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "ODATE VOR/DME",
+        "ID": "ODE",
+        "ELEV": {
+          "m": 93.85,
+          "ft": 308.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.36185555555554,
+          40.198341666666664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "OKAYAMA TACAN",
+        "ID": "OKT",
+        "ELEV": {
+          "m": 241.0,
+          "ft": 791.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.01507222222222,
+          34.671280555555555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "OKI VOR/DME",
+        "ID": "OIE",
+        "ELEV": {
+          "m": 82.3,
+          "ft": 270.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.32282222222221,
+          36.176741666666665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "OKUSHIRI VOR/DME",
+        "ID": "ORE",
+        "ELEV": {
+          "m": 51.1,
+          "ft": 168.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.44340277777778,
+          42.07030277777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "OMINATO TACAN",
+        "ID": "OMT",
+        "ELEV": {
+          "m": 3.63,
+          "ft": 11.9
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.13583333333332,
+          41.23083333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "OMURA TACAN",
+        "ID": "JBT",
+        "ELEV": {
+          "m": 6.2,
+          "ft": 20.4
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.9322222222222,
+          32.92583333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "ONJUKU TACAN",
+        "ID": "OJT",
+        "ELEV": {
+          "m": 111.2,
+          "ft": 365.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.3714277777778,
+          35.18413611111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "OSHIMA VOR",
+        "ID": "XAC",
+        "ELEV": {
+          "m": 636.5,
+          "ft": 2088.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.41401666666667,
+          34.71225277777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "OSHIMA TACAN",
+        "ID": "XAC",
+        "ELEV": {
+          "m": 636.5,
+          "ft": 2088.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.41350277777778,
+          34.712608333333336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "OYAMA VOR/DME",
+        "ID": "MOE",
+        "ELEV": {
+          "m": 19.3,
+          "ft": 63.3
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5612888888889,
+          34.07104166666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "OZUKI TACAN",
+        "ID": "OCT",
+        "ELEV": {
+          "m": 15.2,
+          "ft": 50.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.04972222222221,
+          34.04416666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "RISHIRI VOR/DME",
+        "ID": "RSE",
+        "ELEV": {
+          "m": 33.4,
+          "ft": 109.6
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.18676666666667,
+          45.24566111111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "SAPPORO VOR",
+        "ID": "SPE",
+        "ELEV": {
+          "m": 26.31,
+          "ft": 87.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.30238333333335,
+          43.174641666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "SAPPORO DME",
+        "ID": "SPE",
+        "ELEV": {
+          "m": 26.31,
+          "ft": 87.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.30200555555555,
+          43.17474444444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "SEKIYADO VOR",
+        "ID": "SYE",
+        "ELEV": {
+          "m": 24.4,
+          "ft": 80.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.83917222222223,
+          36.010925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "SEKIYADO DME",
+        "ID": "SYE",
+        "ELEV": {
+          "m": 24.4,
+          "ft": 80.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.83947777777777,
+          36.01080833333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "SENDAI VOR/DME",
+        "ID": "SDE",
+        "ELEV": {
+          "m": 16.36,
+          "ft": 54.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.92148333333333,
+          38.13857222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "SHIMIZU VOR",
+        "ID": "SUC",
+        "ELEV": {
+          "m": 453.8,
+          "ft": 1489.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.9966472222222,
+          32.755969444444446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "SHIMIZU TACAN",
+        "ID": "SUC",
+        "ELEV": {
+          "m": 453.8,
+          "ft": 1489.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.9958472222222,
+          32.755963888888886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "SHIMOFUSA TACAN",
+        "ID": "SHT",
+        "ELEV": {
+          "m": 37.3,
+          "ft": 122.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.00972222222222,
+          35.801944444444445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "SHIMOTSUSHIMA TACAN",
+        "ID": "VCT",
+        "ELEV": {
+          "m": 183.1,
+          "ft": 597.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.28333333333333,
+          34.13
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "SHIZUHAMA TACAN",
+        "ID": "YZT",
+        "ELEV": {
+          "m": 23.7,
+          "ft": 78.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.2958111111111,
+          34.81442222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "SHIZUOKA VOR/DME",
+        "ID": "SZE",
+        "ELEV": {
+          "m": 136.6,
+          "ft": 448.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.19319722222224,
+          34.796841666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "SHODO DME",
+        "ID": "STD",
+        "ELEV": {
+          "m": 771.4,
+          "ft": 2530.8
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.2742138888889,
+          34.51236388888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "SHONAI VOR/DME",
+        "ID": "YSE",
+        "ELEV": {
+          "m": 49.4,
+          "ft": 162.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.79930833333333,
+          38.81078055555555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "SUOH VOR/DME",
+        "ID": "SWE",
+        "ELEV": {
+          "m": 19.0,
+          "ft": 62.3
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.0294,
+          33.85661666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "TAKAMATSU TACAN",
+        "ID": "TZT",
+        "ELEV": {
+          "m": 490.0,
+          "ft": 1607.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.95384166666665,
+          34.326172222222226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "TATEYAMA DME",
+        "ID": "PQD",
+        "ELEV": {
+          "m": 157.5,
+          "ft": 517.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8953222222222,
+          34.94622777777777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "TATEYAMA TACAN",
+        "ID": "TET",
+        "ELEV": {
+          "m": 157.5,
+          "ft": 517.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.83805555555557,
+          34.97083333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "TOKACHI TACAN",
+        "ID": "TKT",
+        "ELEV": {
+          "m": 102.5,
+          "ft": 336.3
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.16583333333335,
+          42.89333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "TOKUSHIMA NDB",
+        "ID": "TS",
+        "ELEV": {
+          "m": 5.1,
+          "ft": 17.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.60611111111112,
+          34.128055555555555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "TOKUSHIMA VOR",
+        "ID": "TSC",
+        "ELEV": {
+          "m": 5.1,
+          "ft": 17.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.60861111111112,
+          34.12972222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "TOKUSHIMA TACAN",
+        "ID": "TSC",
+        "ELEV": {
+          "m": 5.1,
+          "ft": 17.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.60999999999999,
+          34.13
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "TOTTORI VOR/DME",
+        "ID": "TRE",
+        "ELEV": {
+          "m": 34.9,
+          "ft": 115.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.16488611111112,
+          35.5273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "TSUIKI TACAN",
+        "ID": "TQT",
+        "ELEV": {
+          "m": NaN,
+          "ft": NaN
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.035825,
+          33.688227777777776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "UBE VOR/DME",
+        "ID": "UBE",
+        "ELEV": {
+          "m": 19.4,
+          "ft": 64.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.28353055555556,
+          33.935627777777775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "WAKKANAI VOR",
+        "ID": "WKE",
+        "ELEV": {
+          "m": 14.9,
+          "ft": 48.9
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.80564722222223,
+          45.407358333333335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "WAKKANAI DME",
+        "ID": "WKE",
+        "ELEV": {
+          "m": 14.9,
+          "ft": 48.9
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.80533333333335,
+          45.40745277777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "YAMAGATA VOR/DME",
+        "ID": "YTE",
+        "ELEV": {
+          "m": 110.0,
+          "ft": 361.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.35795277777777,
+          38.388622222222224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "YOKOSUKA DME",
+        "ID": "HYD",
+        "ELEV": {
+          "m": 153.1,
+          "ft": 502.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5874638888889,
+          35.25558888888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "YAO VOR/DME",
+        "ID": "YOE",
+        "ELEV": {
+          "m": 30.7,
+          "ft": 101.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.59370555555557,
+          34.59845833333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "YONAGO VOR/DME",
+        "ID": "YGE",
+        "ELEV": {
+          "m": 13.0,
+          "ft": 43.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.25720555555554,
+          35.501377777777776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "YONAGUNI VOR/DME",
+        "ID": "YNE",
+        "ELEV": {
+          "m": 95.9,
+          "ft": 314.6
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.99773888888889,
+          24.46492222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STN": "YUWA VOR/DME",
+        "ID": "UWE",
+        "ELEV": {
+          "m": 87.1,
+          "ft": 286.0
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.18693611111112,
+          39.61712777777778
+        ]
+      }
+    }
+  ]
+}

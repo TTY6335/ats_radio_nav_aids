@@ -1,0 +1,309 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "V30"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            141.68616666666668,
+            42.69990277777777
+          ],
+          [
+            141.0909861111111,
+            42.056019444444445
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "V30"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            141.0909861111111,
+            42.056019444444445
+          ],
+          [
+            140.83221666666665,
+            41.774030555555555
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "V30"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            140.83221666666665,
+            41.774030555555555
+          ],
+          [
+            140.4435611111111,
+            40.92935555555555
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "V30"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            140.4435611111111,
+            40.92935555555555
+          ],
+          [
+            140.05447500000002,
+            40.07287222222222
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "V30"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            140.05447500000002,
+            40.07287222222222
+          ],
+          [
+            139.405975,
+            38.63706666666667
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "V30"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            139.405975,
+            38.63706666666667
+          ],
+          [
+            139.30863333333335,
+            38.39958333333333
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "V30"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            139.30863333333335,
+            38.39958333333333
+          ],
+          [
+            139.2047361111111,
+            38.16308611111111
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "V30"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            139.2047361111111,
+            38.16308611111111
+          ],
+          [
+            139.1148861111111,
+            37.95829444444445
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "V30"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            139.1148861111111,
+            37.95829444444445
+          ],
+          [
+            138.48033055555555,
+            37.60367222222222
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "V30"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            138.48033055555555,
+            37.60367222222222
+          ],
+          [
+            137.88464166666665,
+            37.25995277777778
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "V30"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.88464166666665,
+            37.25995277777778
+          ],
+          [
+            137.76954166666667,
+            37.19848611111111
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "V30"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.76954166666667,
+            37.19848611111111
+          ],
+          [
+            137.49236944444442,
+            37.03819444444444
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "V30"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.49236944444442,
+            37.03819444444444
+          ],
+          [
+            137.13153333333335,
+            36.819208333333336
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "V30"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.13153333333335,
+            36.819208333333336
+          ],
+          [
+            136.99043055555555,
+            36.73955277777778
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "V30"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.99043055555555,
+            36.73955277777778
+          ],
+          [
+            136.75360555555557,
+            36.60509722222223
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "V30"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            136.75360555555557,
+            36.60509722222223
+          ],
+          [
+            136.40425277777777,
+            36.39646944444444
+          ]
+        ]
+      }
+    }
+  ]
+}

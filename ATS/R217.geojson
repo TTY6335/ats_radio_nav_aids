@@ -1,0 +1,119 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "R217"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            144.99609166666664,
+            40.419525
+          ],
+          [
+            142.53303333333335,
+            39.23124722222222
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "R217"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            142.53303333333335,
+            39.23124722222222
+          ],
+          [
+            140.92148333333333,
+            38.13857222222222
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "R217"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            140.92148333333333,
+            38.13857222222222
+          ],
+          [
+            140.60611388888887,
+            38.10916666666667
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "R217"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            140.60611388888887,
+            38.10916666666667
+          ],
+          [
+            140.29605555555554,
+            38.076191666666666
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "R217"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            140.29605555555554,
+            38.076191666666666
+          ],
+          [
+            139.76120833333334,
+            38.026075
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "R217"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            139.76120833333334,
+            38.026075
+          ],
+          [
+            139.1148861111111,
+            37.95829444444445
+          ]
+        ]
+      }
+    }
+  ]
+}

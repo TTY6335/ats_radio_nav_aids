@@ -1,0 +1,214 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "Y81"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            140.6761111111111,
+            34.73027777777778
+          ],
+          [
+            140.14944444444444,
+            34.45944444444445
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "Y81"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            140.14944444444444,
+            34.45944444444445
+          ],
+          [
+            139.9752777777778,
+            34.345
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "Y81"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            139.9752777777778,
+            34.345
+          ],
+          [
+            139.5613888888889,
+            34.071111111111115
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "Y81"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            139.5613888888889,
+            34.071111111111115
+          ],
+          [
+            138.90583333333333,
+            33.744166666666665
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "Y81"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            138.90583333333333,
+            33.744166666666665
+          ],
+          [
+            138.505,
+            33.736666666666665
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "Y81"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            138.505,
+            33.736666666666665
+          ],
+          [
+            137.11388888888888,
+            33.700833333333335
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "Y81"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            137.11388888888888,
+            33.700833333333335
+          ],
+          [
+            134.97361111111113,
+            33.500277777777775
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "Y81"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            134.97361111111113,
+            33.500277777777775
+          ],
+          [
+            133.0613888888889,
+            33.28972222222222
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "Y81"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            133.0613888888889,
+            33.28972222222222
+          ],
+          [
+            132.60194444444443,
+            33.23444444444444
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "Y81"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            132.60194444444443,
+            33.23444444444444
+          ],
+          [
+            132.1302777777778,
+            33.17583333333333
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "Y81"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            132.1302777777778,
+            33.17583333333333
+          ],
+          [
+            129.68944444444446,
+            32.843333333333334
+          ]
+        ]
+      }
+    }
+  ]
+}

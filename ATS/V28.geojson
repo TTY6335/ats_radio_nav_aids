@@ -1,0 +1,138 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "V28"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            132.2694277777778,
+            34.13569444444445
+          ],
+          [
+            132.14726944444445,
+            34.07945555555556
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "V28"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            132.14726944444445,
+            34.07945555555556
+          ],
+          [
+            131.6869,
+            34.00362222222222
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "V28"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            131.6869,
+            34.00362222222222
+          ],
+          [
+            131.28353055555556,
+            33.935627777777775
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "V28"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            131.28353055555556,
+            33.935627777777775
+          ],
+          [
+            131.0294,
+            33.85661666666667
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "V28"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            131.0294,
+            33.85661666666667
+          ],
+          [
+            130.7869111111111,
+            33.78870555555555
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "V28"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            130.7869111111111,
+            33.78870555555555
+          ],
+          [
+            130.38962777777778,
+            33.67620833333333
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "V28"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            130.38962777777778,
+            33.67620833333333
+          ],
+          [
+            128.8267361111111,
+            32.66860555555555
+          ]
+        ]
+      }
+    }
+  ]
+}

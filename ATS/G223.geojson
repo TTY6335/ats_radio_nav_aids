@@ -1,0 +1,138 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "G223"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            142.16330555555555,
+            33.9035
+          ],
+          [
+            142.34769444444444,
+            33.81615
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "G223"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            142.34769444444444,
+            33.81615
+          ],
+          [
+            143.2465722222222,
+            33.386919444444445
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "G223"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            143.2465722222222,
+            33.386919444444445
+          ],
+          [
+            145.99641388888887,
+            32.00380555555556
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "G223"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            145.99641388888887,
+            32.00380555555556
+          ],
+          [
+            147.62970555555557,
+            30.004052777777776
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "G223"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            147.62970555555557,
+            30.004052777777776
+          ],
+          [
+            151.38628333333332,
+            25.004608333333334
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "G223"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            151.38628333333332,
+            25.004608333333334
+          ],
+          [
+            153.19055555555556,
+            22.407777777777778
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ROUTE_DESIGNATOR": "G223"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            153.19055555555556,
+            22.407777777777778
+          ],
+          [
+            154.13666666666666,
+            21.0
+          ]
+        ]
+      }
+    }
+  ]
+}
